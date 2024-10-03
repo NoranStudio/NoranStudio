@@ -29,10 +29,10 @@
 
 ### 📞 연락처
 
-[![Website](https://img.shields.io/badge/Website-www.yellowstudio.com-yellow?style=for-the-badge&logo=google-chrome)](http://www.yellowstudio.com)
-[![Email](https://img.shields.io/badge/Email-contact%40yellowstudio.com-red?style=for-the-badge&logo=gmail)](mailto:contact@yellowstudio.com)
-[![Instagram](https://img.shields.io/badge/Instagram-%40yellow__studio__official-purple?style=for-the-badge&logo=instagram)](https://www.instagram.com/yellow_studio_official)
-[![YouTube](https://img.shields.io/badge/YouTube-Yellow%20Studio%20Channel-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/yellowstudio)
+[![Website](https://img.shields.io/badge/Website-www.yellowstudio.com-yellow?style=for-the-badge&logo=google-chrome)](http://www.noranstudio.com)
+[![Email](https://img.shields.io/badge/Email-contact%40yellowstudio.com-red?style=for-the-badge&logo=gmail)](mailto:noranstudio0707@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%40yellow__studio__official-purple?style=for-the-badge&logo=instagram)](https://www.instagram.com/ynoranstudio07)
+[![YouTube](https://img.shields.io/badge/YouTube-Yellow%20Studio%20Channel-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@noran_studio)
 
 ---
 
