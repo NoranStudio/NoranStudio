@@ -35,9 +35,4 @@
 [![YouTube](https://img.shields.io/badge/YouTube-Noran%20Studio%20Channel-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@noran_studio)
 
 ---
-
-<p align="center">
-  <img src="https://via.placeholder.com/150x150.png?text=YS" alt="노란스튜디오 로고" width="150" height="150">
-</p>
-
 <h3 align="center">🌟 노란스튜디오와 함께 여러분의 예술을 빛내세요! 🌟</h3>
